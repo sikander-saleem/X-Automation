@@ -25,4 +25,4 @@
 
 ## 💼 About This Tool
 
-This bot is a **paid tool** and is not available for free. If you're interested in using this bot, please feel free to [contact me](mailto:sikandersaleem5323@gmail.com) for further details and pricing. Free consultations are also available to discuss other tools that may suit your needs.
+This bot is a **paid tool** and is not available for free. If you're interested in using this bot, please feel free to contact me at [sikandersaleem5323@gmail.com] for further details and pricing. Free consultations are also available to discuss other tools that may suit your needs.
